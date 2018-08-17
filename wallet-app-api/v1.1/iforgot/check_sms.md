@@ -1,0 +1,29 @@
+# 忘记密码--验证验证码  --- 怎么还是你
+
+请求地址 */iforgot/check_sms*
+
+请求方式 **POST**
+
+请求参数
+- mobile 类型 *string*
+- smscode 类型 *string*
+
+参数说明
+```
+// 短信验证key 
+$smsKey = '你吼呀靓仔';
+```
+
+返回参数
+```
+{
+	"code": 0,
+	"msg": "请求成功！",
+	"data": {
+		"smsKey": "你吼呀靓仔"
+	},
+	"lang": 0,
+	"token": "sdfasfdfafd221100",
+	"datetime": "2018-03-01 11:09:56"
+}
+```
