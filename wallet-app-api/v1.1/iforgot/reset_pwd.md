@@ -6,6 +6,7 @@
 
 请求参数
 - password 类型 *string*
+- smsKey   类型 *string*
 
 返回参数
 ```
