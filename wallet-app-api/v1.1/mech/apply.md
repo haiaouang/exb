@@ -5,8 +5,8 @@
 请求方式 **POST**
 
 请求参数
-- form_attach 类型 *file*
-- png_attach 类型 *file*
+- formAttach 类型 *file*
+- pngAttach 类型 *file*
 
 返回参数
 ```
