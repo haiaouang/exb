@@ -5,6 +5,7 @@
 请求方式 **POST**
 
 请求参数
+- mobile 类型 *string*
 - password 类型 *string*
 - smsKey   类型 *string*
 
