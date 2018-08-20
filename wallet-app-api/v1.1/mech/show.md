@@ -10,7 +10,8 @@
 	"code": 0,
 	"msg": "请求成功！",
 	"data": {
-		"isMech": 0
+		"isMech": 0,
+		"auditStatus": 0
 	},
 	"lang": 0,
 	"token": "sdfasfdfafd221100",
