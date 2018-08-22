@@ -6,6 +6,7 @@
 
 请求参数
 - mobile 类型 *string*
+- username 类型 *string* 值等于mobile
 - smscode 类型 *string*
 
 参数说明
